@@ -64,10 +64,10 @@
 
 We are currently looking for new donators to help and maintain this project! ❤️
 
-By donating, you will help the development of this project, and *you will be featured in this Build-'s README.md*, so everyone can see your kindness and visit your content ⭐.
+By donating, you will help the development of this project, and *you will be featured in this Build-.NET-applications-with-CSharp README.md*, so everyone can see your kindness and visit your content ⭐.
 
 <a href="https://github.com/sponsors/carloshmarques"> <!-- MODIFY THIS LINK TO YOUR MAIN DONATING SITE IF YOU ARE NOT IN THE GITHUB SPONSORS PROGRAM -->
-  <img src="https://img.shields.io/badge/Sponsor-carloshmarques/Build -blue?logo=github-sponsors&style=for-the-badge&color=red">
+  <img src="https://img.shields.io/badge/Sponsor-carloshmarques/carloshmarques-blue?logo=github-sponsors&style=for-the-badge&color=red">
 </a>
 
 <!-- LINK TO YOUR DONATING PAGES HERE -->
@@ -87,9 +87,9 @@ Build- was generated from *[Josee9988/project-template](https://github.com/Josee
 ## 🎉 Was the Build-.NET-applications-with-CSharp helpful? Help us raise these numbers up
 
 [![GitHub followers](https://img.shields.io/github/followers/carloshmarques.svg?style=social)](https://github.com/carloshmarques)
-[![GitHub stars](https://img.shields.io/github/stars/carloshmarques/Build-.svg?style=social)](https://github.com/carloshmarques/Build-/stargazers)
-[![GitHub watchers](https://img.shields.io/github/watchers/carloshmarques/Build-.svg?style=social)](https://github.com/carloshmarques/Build-/watchers)
-[![GitHub forks](https://img.shields.io/github/forks/carloshmarques/Build-.svg?style=social)](https://github.com/carloshmarques/Build-/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/carloshmarques/Build-.NET-applications-with-CSharp.svg?style=social)](https://github.com/carloshmarques/Build-.NET-applications-with-CSharp/stargazers)
+[![GitHub watchers](https://img.shields.io/github/watchers/carloshmarques/Build-.NET-applications-with-CSharp.svg?style=social)](https://github.com/carloshmarques/Build-.NET-applications-with-CSharp/watchers)
+[![GitHub forks](https://img.shields.io/github/forks/carloshmarques/Build-.NET-applications-with-CSharp.svg?style=social)](https://github.com/carloshmarques/Build-.NET-applications-with-CSharp/network/members)
 <!-- MODIFY THIS LINK TO YOUR MAIN DONATING SITE IF YOU ARE NOT IN THE GITHUB SPONSORS PROGRAM -->
 [![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=github-sponsors&color=red&style=social)](https://github.com/sponsors/carloshmarques)
 
