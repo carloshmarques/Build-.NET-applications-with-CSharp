@@ -9,7 +9,6 @@ var/
 .tmp/
 
 # IDE's
-.vscode/
 .idea/
 
 
