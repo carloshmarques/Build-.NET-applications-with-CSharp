@@ -1,17 +1,17 @@
 <!-- markdownlint-disable MD032 MD033-->
 <!-- Write your README.md file. Build something amazing! This README.md template can guide you to build your project documentation, but feel free to modify it as you wish 🥰 -->
-# 🔥 **carloshmarques/Build-**
+# 🔥 **carloshmarques/Build-.NET-applications-with-CSharp**
 
 <div align="center">
   <!-- Change your logo -->
-  <a href="https://github.com/carloshmarques/Build-">
-    <img width="100%" src="https://i.imgur.com/SVvgxJF.png" alt="@carloshmarques/Build-'s logo">
+  <a href="https://github.com/carloshmarques/Build-.NET-applications-with-CSharp/">
+    <img width="100%" src="https://i.imgur.com/rj1HPjW.png" alt="@carloshmarques/Build-.NET-applications-with-CSharp's logo">
   </a>
   <br>
-  <a href="https://github.com/carloshmarques/Build-/issues">
+  <a href="https://github.com/carloshmarques/carloshmarques/Build-.NET-applications-with-CSharp/issues">
     <img src="https://img.shields.io/github/issues/carloshmarques/Build-?color=0088ff&style=for-the-badge&logo=github" alt="carloshmarques/Build-'s issues"/>
   </a>
-  <a href="https://github.com/carloshmarques/Build-/pulls">
+  <a href="https://github.com/carloshmarques/carloshmarques/Build-.NET-applications-with-CSharp/pulls">
     <img src="https://img.shields.io/github/issues-pr/carloshmarques/Build-?color=0088ff&style=for-the-badge&logo=github"  alt="carloshmarques/Build-'s pull requests"/>
   </a>
 </div>
