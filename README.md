@@ -8,10 +8,10 @@
     <img width="100%" src="https://i.imgur.com/rj1HPjW.png" alt="@carloshmarques/Build-.NET-applications-with-CSharp's logo">
   </a>
   <br>
-  <a href="https://github.com/carloshmarques/carloshmarques/Build-.NET-applications-with-CSharp/issues">
+  <a href="https://github.com/carloshmarques/Build-.NET-applications-with-CSharp/issues">
     <img src="https://img.shields.io/github/issues/carloshmarques/Build-.NET-applications-with-CSharp?color=0088ff&style=for-the-badge&logo=github" alt="carloshmarques/Build-.NET-applications-with-CSharp issues"/>
   </a>
-  <a href="https://github.com/carloshmarques/carloshmarques/Build-.NET-applications-with-CSharp/pulls">
+  <a href="https://github.com/carloshmarques/Build-.NET-applications-with-CSharp/pulls">
     <img src="https://img.shields.io/github/issues-pr/carloshmarques/Build-.NET-applications-with-CSharp?color=0088ff&style=for-the-badge&logo=github"  alt="carloshmarques/Build-.NET-applications-with-CSharp pull requests"/>
   </a>
 </div>
