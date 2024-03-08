@@ -57,8 +57,8 @@
 ## 🍰 **Supporters and donators**
 
 <!-- Change your small logo -->
-<a href="https://github.com/carloshmarques/Build ">
-  <img alt="@carloshmarques/Build 's brand logo without text" align="right" src="https://i.imgur.com/3qK1sie.png" width="18%" />
+<a href="https://github.com/carloshmarques/Build-.NET-applications-with-CSharp/ ">
+  <img alt="@carloshmarques/Build-.NET-applications-with-CSharp's brand logo without text" align="right" src="https://i.imgur.com/i8hCIzh.jpg" width="10%"  />
 </a>
 
 
