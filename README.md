@@ -9,10 +9,10 @@
   </a>
   <br>
   <a href="https://github.com/carloshmarques/carloshmarques/Build-.NET-applications-with-CSharp/issues">
-    <img src="https://img.shields.io/github/issues/carloshmarques/Build-.NET-applications-with-CSharp?color=0088ff&style=for-the-badge&logo=github" alt="carloshmarques/Build-'s issues"/>
+    <img src="https://img.shields.io/github/issues/carloshmarques/Build-.NET-applications-with-CSharp?color=0088ff&style=for-the-badge&logo=github" alt="carloshmarques/Build-.NET-applications-with-CSharp issues"/>
   </a>
   <a href="https://github.com/carloshmarques/carloshmarques/Build-.NET-applications-with-CSharp/pulls">
-    <img src="https://img.shields.io/github/issues-pr/carloshmarques/Build-.NET-applications-with-CSharp?color=0088ff&style=for-the-badge&logo=github"  alt="carloshmarques/Build-'s pull requests"/>
+    <img src="https://img.shields.io/github/issues-pr/carloshmarques/Build-.NET-applications-with-CSharp?color=0088ff&style=for-the-badge&logo=github"  alt="carloshmarques/Build-.NET-applications-with-CSharp pull requests"/>
   </a>
 </div>
 
