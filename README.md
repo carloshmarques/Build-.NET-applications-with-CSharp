@@ -16,29 +16,29 @@
   </a>
 </div>
 
----
+<!---
 
 ## 🤔 **About the project**
 
-* <!-- ... [WHY DID YOU CREATED THIS PROJECT?, MOTIVATION, PURPOSE, DESCRIPTION, OBJECTIVES, etc] -->
+* <!-- ... [WHY DID YOU CREATED THIS PROJECT?, MOTIVATION, PURPOSE, DESCRIPTION, OBJECTIVES, etc] --
 
 ---
 
 ## ⚡ **Installation**
 
-* <!-- ... [SHOW HOW YOUR PROJECT IS INSTALLED] -->
+* <!-- ... [SHOW HOW YOUR PROJECT IS INSTALLED] --
 
 ---
 
 ## 🚀 **Usage**
 
-* <!-- ... [SHOW HOW YOUR PROJECT IS USED] -->
+* <!-- ... [SHOW HOW YOUR PROJECT IS USED] --
 
 ---
 
 ## 🌲 **Project tree**
 
-<!-- ... [SHOW YOUR PROJECT TREE HERE IF USEFUL] -->
+<!-- ... [SHOW YOUR PROJECT TREE HERE IF USEFUL] --
 
 ---
 
