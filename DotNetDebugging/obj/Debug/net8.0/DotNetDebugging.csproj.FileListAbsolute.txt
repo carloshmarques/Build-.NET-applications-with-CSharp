@@ -1,0 +1,15 @@
+C:\Users\carlo\OneDrive\Documentos\Github\master\Build-.NET-applications-with-CSharp\DotNetDebugging\bin\Debug\net8.0\DotNetDebugging.exe
+C:\Users\carlo\OneDrive\Documentos\Github\master\Build-.NET-applications-with-CSharp\DotNetDebugging\bin\Debug\net8.0\DotNetDebugging.deps.json
+C:\Users\carlo\OneDrive\Documentos\Github\master\Build-.NET-applications-with-CSharp\DotNetDebugging\bin\Debug\net8.0\DotNetDebugging.runtimeconfig.json
+C:\Users\carlo\OneDrive\Documentos\Github\master\Build-.NET-applications-with-CSharp\DotNetDebugging\bin\Debug\net8.0\DotNetDebugging.dll
+C:\Users\carlo\OneDrive\Documentos\Github\master\Build-.NET-applications-with-CSharp\DotNetDebugging\bin\Debug\net8.0\DotNetDebugging.pdb
+C:\Users\carlo\OneDrive\Documentos\Github\master\Build-.NET-applications-with-CSharp\DotNetDebugging\obj\Debug\net8.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Documentos\Github\master\Build-.NET-applications-with-CSharp\DotNetDebugging\obj\Debug\net8.0\DotNetDebugging.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Documentos\Github\master\Build-.NET-applications-with-CSharp\DotNetDebugging\obj\Debug\net8.0\DotNetDebugging.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Documentos\Github\master\Build-.NET-applications-with-CSharp\DotNetDebugging\obj\Debug\net8.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Documentos\Github\master\Build-.NET-applications-with-CSharp\DotNetDebugging\obj\Debug\net8.0\DotNetDebugging.sourcelink.json
+C:\Users\carlo\OneDrive\Documentos\Github\master\Build-.NET-applications-with-CSharp\DotNetDebugging\obj\Debug\net8.0\DotNetDebugging.dll
+C:\Users\carlo\OneDrive\Documentos\Github\master\Build-.NET-applications-with-CSharp\DotNetDebugging\obj\Debug\net8.0\refint\DotNetDebugging.dll
+C:\Users\carlo\OneDrive\Documentos\Github\master\Build-.NET-applications-with-CSharp\DotNetDebugging\obj\Debug\net8.0\DotNetDebugging.pdb
+C:\Users\carlo\OneDrive\Documentos\Github\master\Build-.NET-applications-with-CSharp\DotNetDebugging\obj\Debug\net8.0\DotNetDebugging.genruntimeconfig.cache
+C:\Users\carlo\OneDrive\Documentos\Github\master\Build-.NET-applications-with-CSharp\DotNetDebugging\obj\Debug\net8.0\ref\DotNetDebugging.dll
