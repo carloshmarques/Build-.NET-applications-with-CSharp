@@ -61,13 +61,12 @@
   <img alt="@carloshmarques/Build-.NET-applications-with-CSharp's brand logo without text" align="right" src="https://i.imgur.com/i8hCIzh.jpg" width="10%"  />
 </a>
 
-
 We are currently looking for new donators to help and maintain this project! ❤️
 
 By donating, you will help the development of this project, and *you will be featured in this Build-.NET-applications-with-CSharp README.md*, so everyone can see your kindness and visit your content ⭐.
 
 <a href="https://github.com/sponsors/carloshmarques"> <!-- MODIFY THIS LINK TO YOUR MAIN DONATING SITE IF YOU ARE NOT IN THE GITHUB SPONSORS PROGRAM -->
-  <img src="https://img.shields.io/badge/Sponsor-carloshmarques/carloshmarques-blue?logo=github-sponsors&style=for-the-badge&color=red">
+  <img alt="@carloshmarques/Build-.NET-applications-with-CSharp's brand logo without text" src="https://img.shields.io/badge/Sponsor-carloshmarques/carloshmarques-blue?logo=github-sponsors&style=for-the-badge&color=red">
 </a>
 
 <!-- LINK TO YOUR DONATING PAGES HERE -->
