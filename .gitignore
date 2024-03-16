@@ -9,7 +9,12 @@ var/
 .tmp/
 
 # IDE's
+.vscode/
 .idea/
+.vs/
+*.sublime-project
+*.sublime-workspace
+
 
 
 ##### Files #####
