@@ -45,15 +45,15 @@
 ## 📝 **Additional notes**
 
 * <!-- ... [ADD ADDITIONAL NOTES] -->
-
+<!--
 ---
 
 ## 📸 **Screenshots**
 
-<!-- ... [SOME DESCRIPTIVE IMAGES] -->
+<!-- ... [SOME DESCRIPTIVE IMAGES] --
 
 ---
-
+-->
 ## 🍰 **Supporters and donators**
 
 <!-- Change your small logo -->
